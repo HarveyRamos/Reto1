@@ -1,0 +1,30 @@
+body{
+    font-family: sans-serif;
+    width: 1200px;
+}
+
+.header{
+    background-color: red;
+}
+
+.services{
+background-color: cadetblue;
+
+
+}
+
+.news{
+    background-color: chartreuse;
+
+}
+
+.team{
+    background-color: coral;
+
+
+}
+
+.footer{
+    background-color: darkgray;
+
+}
